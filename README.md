@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibusunilgithub&label=Profile%20views&color=0e75b6&style=flat" alt="sibusunilgithub" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development, C, C++ etc.**
+- 🌱 I’m currently learning **Full Stack Web Development, C++, DSA etc.**
 
 - 📝 I regularly write articles on [www.dowithme.in](www.dowithme.in)
 
-- 💬 Ask me about **BSc Computer Science Study Subjects...**
+- 💬 Ask me about **BSc Computer Science Study Tips...**
 
 - 📫 How to reach me **sunilkumarsahoo123s@gmail.com**
 
