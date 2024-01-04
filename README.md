@@ -1,4 +1,4 @@
-# Hey 🤞 I'm Sunil Kumar
+# Hey 🙌 I'm Sunil Kumar
 ## 💫 About Me:
 🌱 I’m learning Full Stack Web Development, C, C++, and DSA.<br>📝 I regularly write articles on www.dowithme.in<br>💬 Ask me about BSc Computer Science Study Tips...<br>📫 How to reach me sunilkumarsahoo123s@gmail.com<br>😋 Fun fact Ek Ice-Cream Khilayega Kya...
 
